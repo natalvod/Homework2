@@ -1,8 +1,8 @@
 let a = 10;
 alert(a);
 
-let releaseIphone = 2007;
-alert(releaseIphone);
+let releaseFirstIphone = 2007;
+alert(releaseFirstIphone);
 
 let javaScriptCreator = 'Brendan Eich';
 alert(javaScriptCreator);
