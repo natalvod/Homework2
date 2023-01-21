@@ -41,7 +41,7 @@ const user = {
 user['city of residence'] = 'New York';
 user.age = 32;
 delete user['city of residence'];
-let info = prompt('age');
+let info = prompt('Какую информацию хотите узнать о пользователе?');
 alert(user[info]);
 
 let userName = prompt('Ваше имя');
