@@ -43,3 +43,6 @@ user.age = 32;
 delete user['city of residence'];
 let info = prompt('age');
 alert(user[info]);
+
+let userName = prompt('Ваше имя');
+alert(`Привет, ${userName}!`);
